@@ -1,0 +1,11 @@
+name	subjects	score
+tanaka	science	30
+sato	science	50
+suzuki	science	12
+yoshida	science	100
+kugayama	science	48
+suzumura	science	69
+hatayama	science	98
+yoshizawa	science	98
+tamura	science	12
+murata	science	75

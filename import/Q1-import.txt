@@ -1,0 +1,20 @@
+chapter	section	detail
+Chapter 1 Managing Worksheets and Workbooks	Import data into a workbook	Import data from a text file
+		Import data from online sources
+	Navigate a workbook	Search for data in a workbook
+		"Go to a named cell, range, or workbook element"
+		Insert or delete a hyperlink
+	Format a worksheet or workbook	Change page setup
+		Adjust row heights and column widths
+		Customize headers and footers
+	Customize options and display	Manage the Quick Access Toolbar
+		View or change a sheet in a different view
+		Freeze rows and columns in a worksheet
+		Change the display of a window
+		Change the built-in properties of a workbook
+		View formulas
+	Prepare a workbook for collaboration and distribution	Set the print area
+		Save or export a workbook in a different file format
+		Configuring Print Settings
+		Inspect the workbook to fix problems
+		Manage comments and notes
