@@ -34,6 +34,16 @@ Los ejercicios cubren las áreas principales del examen MO-210:
 
 ---
 
+## Preparación para prueba técnica del dia Sabado, 7 de Marzzo del 2026
+
+
+**Horario: Luego de resolver lo parte practica**
+
+[PREPARACIÓN PRUEBA TÉCNICA TEORICA](https://cedia.zoom.us/j/83928890155)
+
+
+---
+
 ## 📝 Notas
 
 Asegúrate de tener instalado Microsoft Excel 2019 o Microsoft 365 para trabajar con los ejercicios.
