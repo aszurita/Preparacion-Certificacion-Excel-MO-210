@@ -34,7 +34,7 @@ Los ejercicios cubren las áreas principales del examen MO-210:
 
 ---
 
-## Preparación para prueba técnica del dia Sabado, 7 de Marzzo del 2026
+## Preparación para prueba técnica del dia Sabado, 7 de Marzo del 2026
 
 
 **Horario: Luego de resolver lo parte practica**
